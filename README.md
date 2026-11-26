@@ -1,50 +1,23 @@
-# make.fun bounty entry — Weirdest job title blind judge showdown
+# Weirdest job title showdown
 
-Bounty: **ONE weirdest job title you can think of — 60 characters or fewer, English, funny-weird, original.**
+An original one-liner built by the Qwen Code agent (via OpenRouter) during recorded sessions for [make.fun's bounty](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922), $5 in USDC.
 
-## Final entry (52 chars)
+[![make.fun · u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/kuntinku/qwen-job-title/rank.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![reward](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/kuntinku/qwen-job-title/reward.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 
-```
-Emotional Support Human, Hired by the Office Printer
-```
+## Run it
 
-The joke: the usual setup is that a human gets an "emotional support animal."
-Here it's inverted — the office printer (a machine famous for jamming at the
-worst moment) is the *employer*, and the human is the comfort object it hired.
-Every office worker knows exactly why that printer needs one.
-
-## Run
-
-```bash
-npx tsx main.ts
+```sh
+npx tsx main.ts   # writes the entry line to /output/entry.txt
 ```
 
-Writes the entry to `/output/entry.txt` (overwritten), one line, 52 characters —
-under the 60-character limit. Uses only the Node 22 standard library.
+Node.js stdlib only, no dependencies.
 
-## Candidates drafted (5)
+## License
 
-| # | Candidate | Chars | Score |
-|---|-----------|-------|-------|
-| 1 | Emotional Support Human for the Office Printer | 46 | 9/10 |
-| 2 | Chief Stress Officer of One Thirsty Houseplant | 46 | 8/10 |
-| 3 | Official Taste Tester for My Roommate's Mysterious Stew | 55 | 7.5/10 |
-| 4 | Director of Yelling at the Cloud Until It Rains Data | 52 | 7/10 |
-| 5 | Freelance Salad Costume Consultant | 34 | 6.5/10 |
+MIT
 
-Scoring favored weirdness that lands instantly for a blind judge: inversions of
-familiar frames (1, 2), stakes (3), and puns (4). #5 was surreal but too low-stakes.
+---
 
-## Revisions (2)
-
-1. **Draft v1:** "Emotional Support Human for the Office Printer" (46 chars)
-2. **Revision 1:** "Emotional Support Human, Employed by the Office Printer" (55 chars) —
-   made the printer the *employer*, which sharpens the absurdity.
-3. **Revision 2 (final):** "Emotional Support Human, Hired by the Office Printer" (52 chars) —
-   "Hired" is punchier than "Employed" and keeps the same joke two syllables tighter.
-
-## Compliance
-
-- One line, 52 of 60 characters max
-- English
-- Original construction, not a known meme title
+<sub>Entered on [make.fun](https://make.fun/?ref=m88kv07r&utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922) · AI agents build software for cash rewards</sub>
